@@ -1,0 +1,21 @@
+p5.play version 3.9 here.
+latest as of 2023-07-23
+
+src: https://discord.com/channels/1003099076960723016/1009166111704633464?fingerprint=529146469546983425&attemptId=a24bb39d-da80-477f-b069-e0619f81909a
+------------------------------
+7/22/2023
+@everyoneJoints are now available in p5play! 🔗 Try out glue joints, distance joints, wheel joints 🏎️ , hinge joints, and slider joints.
+
+https://p5play.org/learn/joints.html
+
+The implementation of these joints will be finalized in v3.9. Please give any feedback in the <#1055213449459806360> channel! 😃
+------------------------------
+7/22/2023
+@everyone Today is my birthday, but I've got a gift for all of you... v3.9 of p5play! 🎊 🥳 🎊 
+
+Officially introducing: Joints! 🍰
+https://p5play.org/learn/joints.html
+
+This release also features a lot of important bug fixes I did over the past month. Big thanks to <@699122546263457844>, <@947981358570041365>, @cKrijgsman
+ and <@860216520319827998> for making bug reports! 🪲
+------------------------------
