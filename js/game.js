@@ -1,13 +1,14 @@
 class Game {
     constructor() {
-        console.log("Game constructor");
+        this.dino = new Dinosaur();
     }
 
     update() {
-        
+        this.dino.update();
     }
 
     draw() {
-        background(0);
+        background(255);
+        this.dino.draw();
     }
 }
