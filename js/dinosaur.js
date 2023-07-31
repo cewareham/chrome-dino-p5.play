@@ -3,7 +3,7 @@ class Dinosaur {
         this.x = 80+cc.dinoRun1.width/2;
         this.y = 310+cc.dinoRun1.height/2;
         this.x_duck = 80+cc.dinoDuck1.width/2;
-        this.y_duck = 340+cc.dinoDuck1.height/2;
+        this.y_duck = 345+cc.dinoDuck1.height/2;
 
         this.sprite = new Sprite(this.x, this.y);
         this.sprite.addAni('start', cc.dinoStart);
